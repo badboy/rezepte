@@ -1,0 +1,31 @@
+---
+layout: none
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>kleine Rezept-Sammlung</title>
+    <link>http://rezepte.fnordig.de/</link>
+    <description>kleine Rezept-Sammlung, zusammengetragen aus allerlei Quellen</description>
+    <pubDate>{{site.posts[0].date | date_to_xmlschema}}</pubDate>
+    <dc:date>{{site.posts[0].date | date_to_xmlschema}}</dc:date>
+
+    {% for post in site.posts %}
+    <item>
+        <title>{{post.title}}</title>
+        <link>http://rezepte.fnordig.de/{{post.url}}</link>
+        <description>
+            {{post.content | xml_escape}}
+        </description>
+        <pubDate>{{post.date | date_to_xmlschema}}</pubDate>
+        <dc:date>{{post.date | date_to_xmlschema}}</dc:date>
+    </item>
+    {% endfor %}
+
+  </channel>
+</rss>
