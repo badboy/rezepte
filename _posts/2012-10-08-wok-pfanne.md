@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Wok-Pfannde
+title: Wok-Pfanne
 date: 08.10.2012 14:29
 ---
 
