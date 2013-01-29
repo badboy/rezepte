@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Schwäbische Pizza
-date:,30.01.2013 00:12
+date: 30.01.2013 00:12
 ---
 
 * 1 Becher Sahne
