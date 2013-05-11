@@ -10,12 +10,12 @@ PRODUCTION = {
 
 desc 'Generate page using jekyll'
 task :generate do
-  sh "jekyll"
+  sh "jekyll build"
 end
 
 desc 'Serve the page on http://localhost:4000'
 task :serve do
-  sh "jekyll --serve --auto"
+  sh "jekyll serve --watch"
 end
 
 namespace :deploy do
