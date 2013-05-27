@@ -4,7 +4,7 @@ title: Elsässer Krauttopf
 date: 23.05.2013 19:19
 ---
 
-* Krautsalat
+* Sauerkraut
 * Rinderhackfleisch
 * Kartoffeln
 * Karotten
@@ -17,7 +17,7 @@ date: 23.05.2013 19:19
 Das Hackfleisch anbraten, mit Wein ablöschen. Karottenstreifen, Zwiebeln,
 Tomatenmark und Gewürze dazugeben. Köcheln lassen. Kartoffeln kochen.
 
-In einer Auflaufform zuerst Krautsalat schichten, darüber die Hackfleischmenge,
+In einer Auflaufform zuerst Sauerkraut schichten, darüber die Hackfleischmenge,
 eine weitere Schicht Krautsalat und Käse drüber. Bei 200°C im Backofen
 überbacken.
 
