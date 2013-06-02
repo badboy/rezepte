@@ -1,0 +1,31 @@
+#!/usr/bin/env ruby
+# encoding: utf-8
+
+OUTPUT_DIR = File.expand_path("~/projects/rezepte/_posts")
+EDITOR = ENV['EDITOR'] || 'vim'
+EXTENSION=".md"
+HEADER = <<EOF
+---
+layout: recipe
+title: %s
+date: %s
+---
+
+EOF
+
+if ARGV.size == 0
+  $stderr.puts "usage: #{File.basename($0)} title"
+  exit 1
+end
+
+filename = Time.now.strftime("%Y-%m-%d-") + ARGV.map { |arg|
+  arg.downcase.gsub(/[^a-z]/, '-')
+}.join('-').gsub(/--+/, '').gsub(/-$/, '')
+title = ARGV.join(' ')
+file = File.join(OUTPUT_DIR, "#{filename}#{EXTENSION}")
+date = Time.now.strftime("%d.%m.%Y %H:%M")
+
+puts "new post: #{title}"
+puts "file: #{filename}"
+File.open(file, "w"){|f| f.write(HEADER % [title, date]) }
+exec EDITOR, '+', file
