@@ -20,4 +20,4 @@ braten bis es durch ist. Anschließend den Fisch zur Seite legen.
 
 Zwiebeln in der selben Pfanne glasig dünsten, dann die Möhren und das
 Tomatenmark dazugeben. Das Gemüse mit etwas Salz und Pfeffer würzen und dünsten
-bis weich ist. Zum Schluss etwas Dill dazugeben.
+bis es weich ist. Zum Schluss etwas Dill dazugeben.
