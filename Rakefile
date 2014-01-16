@@ -17,6 +17,7 @@ desc 'Serve the page on http://localhost:4000'
 task :serve do
   sh "jekyll serve --watch"
 end
+task :default => :serve
 
 namespace :deploy do
   desc 'Deploy the page on the production machine (executed on production)'
