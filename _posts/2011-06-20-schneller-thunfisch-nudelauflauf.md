@@ -18,4 +18,3 @@ Ab in den Ofen und zum Schluss Käse drüber.
 Sobald der Käse verlaufen ist, raus aus dem Ofen und ab auf den Tisch.
 
 Geht auch superschnell und die meisten Zutaten hat man auch immer Vorrat.
-Note: * * * * -

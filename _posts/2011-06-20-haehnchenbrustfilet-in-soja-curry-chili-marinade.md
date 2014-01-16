@@ -35,4 +35,3 @@ dazu: Reis
 (Vorsicht: Kann je nach Menge der Chilishoten sehr scharf werden)
 
 Selbst ausprobiert, schmeckt super!
-Note: * * * * *

@@ -23,5 +23,3 @@ date: 08.10.2012 14:30
 7. mit Basilikum garnieren; ggf. Tacos dazu reichen
 
 Zubereitungszeit ca. 30 Minuten!
-
-Note: _noch nicht ausprobiert_

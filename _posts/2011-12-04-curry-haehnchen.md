@@ -20,4 +20,3 @@ Sahne, Wasser und die Gemüsebouillon dazugeben. Mit Gewürzen abschmecken.
 Dazu: Nudeln
 
 Erfordert weder viel Aufwand noch Können und schmeckt prima.
-Note: * * * * -

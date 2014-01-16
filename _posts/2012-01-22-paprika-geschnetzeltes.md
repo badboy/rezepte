@@ -20,4 +20,3 @@ Fertig.
 Dazu passt Reis oder auch Nudeln
 
 Ruckzuck fertig und die Küche bleibt auch sauber. Schmeckt astrein.
-Note: * * * * -

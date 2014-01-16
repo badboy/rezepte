@@ -26,6 +26,3 @@ Spinat dazugeben.
 Würzen mit Muskatnuss, Pfeffer, wer's scharf mag mit Chili-Schoten.
 Zum Schluss Schafskäse würfeln, Tomaten vierteln und beides dazugeben.
 Dazu die Mie-Nudeln kochen.
-
-Noch nicht selbst ausprobiert. Folgt aber bald.
-Note: - - - - -

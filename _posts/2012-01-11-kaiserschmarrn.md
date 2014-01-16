@@ -24,5 +24,3 @@ Auf den Teller damit und Puderzucker drüber.
 Eiweiß steifschlagen ist 'ne Sache für sich,
 aber alles in allem nicht ganz so viel Aufwand.
 Und unglaublich lecker.
-
-Note: * * * * *

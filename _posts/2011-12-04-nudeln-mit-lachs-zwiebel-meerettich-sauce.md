@@ -19,4 +19,3 @@ Mit Meerrettich und Gewürzen abschmecken, Gemüsebouillon dazu.
 Aufkochen lassen, fertig. Dazu Nudeln kochen.
 
 Schmeckt super, ist einfach zuzubereiten.
-Note: * * * * -

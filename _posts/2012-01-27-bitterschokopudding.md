@@ -33,4 +33,3 @@ Zutaten für 4 oder 6 Stück
    Warm mit Sahne, Creme fraîche oder Eis servieren.
 
 Noch nicht ausprobiert, aber das folgt noch.
-Note: - - - - -
