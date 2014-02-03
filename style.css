@@ -23,6 +23,8 @@ h1 {
   margin: 0;
   display: table;
   width: 100%;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
 
   font-size: 14px;
   padding: 8px 0px 8px 10px;
@@ -30,7 +32,8 @@ h1 {
   text-shadow: white 1px 1px 0px;
   border-bottom: 1px solid #cacaca;
   background-color: #e1e1e1;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#f1f1f1), to(#e1e1e1));
+  background-image: linear-gradient(#f1f1f1 0%, #e1e1e1 100%);
+  font-family: sans-serif;
 }
 h1 a {
   color: #666;
@@ -41,7 +44,7 @@ h1 a:hover {
 }
 #navi ul {
   list-style-type: none;
-  -webkit-padding-start: 5px;
+  padding-left: 5px;
   background-color: #fafafb;
 }
 #navi li {
@@ -70,6 +73,8 @@ a {
   padding-left: 5px;
   padding-right: 5px;
   font-family: monospace;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
 }
 #main .content {
   font-family: monospace;
