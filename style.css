@@ -18,6 +18,7 @@ body {
   border-width: 1px 1px 1px 1px;
   margin: 0;
   margin-right: 20px;
+  background-color: #FAFAFB;
 }
 h1 {
   margin: 0;
@@ -53,6 +54,9 @@ h1 a:hover {
   border-bottom: 1px solid #e9ecee;
   font-family: helvetica, arial, freesans, clean, sans-serif;
 }
+#navi li:first-child {
+  border-top: 1px solid #e9ecee;
+}
 #navi li:hover {
   background-color: #F0F0F3;
 }
@@ -79,11 +83,6 @@ a {
 #main .content {
   font-family: monospace;
 }
-#footer {
-  position: absolute;
-  bottom: 10px;
-  right: 10px;
-}
 #footer a {
   font-size: 0.8em;
   font-weight: normal;
@@ -97,10 +96,5 @@ a {
   #navi, #main, #main .content {
     width: 99%;
     word-wrap: break-word;
-  }
-
-  #footer {
-    position: static;
-    text-align: right;
   }
 }
