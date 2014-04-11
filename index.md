@@ -18,6 +18,4 @@ bei [Twitter](https://twitter.com/badboy_) Bescheid sagen oder
 
 Guten Appetit.
 
-P.S.: Ich vergebe für jedes Rezept Punkte. Bis zu 5 Sterne pro Rezept.
-
 <https://github.com/badboy/rezepte>
