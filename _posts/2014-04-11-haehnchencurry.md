@@ -20,7 +20,5 @@ Hähnchenbrust schnetzeln. Sojasauce und Sambal Olek mischen und die Hähnchenbr
 
 Paprika und Zucchini waschen und würfeln.
 
-Hähnchenbrust mit der Marinade in eine heiße Pfanne geben und anbraten. Dann Paprika und Zucchini dazu geben und mitdünsten. Tomatenmark und Currypulver dzaugeben und mit Wasser ablöschen.
+Hähnchenbrust mit der Marinade in eine heiße Pfanne geben und anbraten. Dann Paprika und Zucchini dazu geben und mitdünsten. Tomatenmark und Currypulver dazugeben und mit Wasser ablöschen.
 Zuletzt mit etwas Sahne und Salz abschmecken.
-
-Dazu passt Salat.
