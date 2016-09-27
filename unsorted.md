@@ -5,6 +5,10 @@ title: "Unsorted recipes"
 
 Sammlung von Rezepten, die ich noch nicht gekocht und einsortiert habe.
 
+## Easy Vegan Pumpkin Pie
+
+<http://itdoesnttastelikechicken.com/2015/11/15/easy-vegan-pumpkin-pie/>
+
 ## One-Pot Swedish Meatball Pasta
 
 <https://www.reddit.com/r/GifRecipes/comments/4lq36g/onepot_swedish_meatball_pasta/>
