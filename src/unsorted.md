@@ -1,9 +1,33 @@
----
-layout: recipe
-title: "Unsorted recipes"
----
+# Unsortiert
 
 Sammlung von Rezepten, die ich noch nicht gekocht und einsortiert habe.
+
+vitello tonnato
+https://gfycat.com/ShockingTalkativeAustraliankelpie
+
+https://gfycat.com/AccomplishedDependentAfricanwilddog
+https://gfycat.com/BothTemptingIslandcanary
+http://i.imgur.com/F6Dfh8w.gifv
+
+## Cheesy Swedish Meatball Bake
+
+<https://www.reddit.com/r/GifRecipes/comments/5gyn4m/cheesy_swedish_meatball_bake/>
+
+## Delicious Homemade Hamburger Helper
+
+<https://www.reddit.com/r/GifRecipes/comments/578d22/delicious_homemade_hamburger_helper/>
+
+## Roasted Red Pepper and Sweet Potato Soup
+
+<https://www.reddit.com/r/GifRecipes/comments/57g6ug/roasted_red_pepper_and_sweet_potato_soup/>
+
+## Kichererbsen-Curry
+
+<http://tofunator.de/veggi-rezepte/seitan-kichererbsen-curry/>
+
+## Hasselback Chicken
+
+<https://www.reddit.com/r/GifRecipes/comments/55cbuc/hasselback_chicken/>
 
 ## Easy Vegan Pumpkin Pie
 
