@@ -1,6 +1,0 @@
-permalink: pretty
-exclude:
-- Rakefile
-- README.md
-- ext
-markdown: kramdown
