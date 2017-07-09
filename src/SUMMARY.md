@@ -39,3 +39,4 @@
 - [Fantakuchen](./fantakuchen.md)
 - [Spaghetti mit Garnelen](./garnelen.md)
 - [Italienischer Nudelsalat](./italienischer-nudelsalat.md)
+- [Grandiosa](./grandiosa.md)
