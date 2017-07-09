@@ -16,3 +16,7 @@ bei [Twitter](https://twitter.com/badboy_) Bescheid sagen oder
 Guten Appetit.
 
 <https://github.com/badboy/rezepte>
+
+---
+
+Built with [mdbook](https://github.com/azerupi/mdBook).
