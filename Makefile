@@ -1,4 +1,4 @@
-SOURCE = /home/badboy/git/rezepte/_site
+SOURCE = /home/badboy/git/rezepte/book/
 DEST = /var/www/sites/rezepte.fnordig.de
 
 build:
