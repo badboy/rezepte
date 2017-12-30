@@ -9,8 +9,10 @@
 * 1 EL Kakao
 * 1/4 L Rotwein
 * 100g Schokostreusel
-* Puderzucker
+* Puderzucker (für die Glasur)
+* alternativ: Schokoglasur
 
-bei 170°-175°C 60 Min. backen (nach 30 Min. mit Alufolie bedecken)
+bei 170°-175°C 60 Min. backen (nach 30 Min. mit Alufolie bedecken, geht aber auch ohne)
 
 Aus Puderzucker, Rotwein und Zimt einen Guß zubereiten und den Kuchen überziehen.
+Alternativ mit Schokoglasur überziehen.
