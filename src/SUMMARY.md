@@ -40,3 +40,4 @@
 - [Spaghetti mit Garnelen](./garnelen.md)
 - [Italienischer Nudelsalat](./italienischer-nudelsalat.md)
 - [Grandiosa](./grandiosa.md)
+- [Ofen-Lachs](./ofen-lachs.md)
