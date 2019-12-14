@@ -1,6 +1,7 @@
 # Summary
 
 - [Rezeptesammlung](./index.md)
+- [Pizza](./pizza.md)
 - [Unsortiert](./unsorted.md)
 - [African Peanut Soup](./african-peanut-soup.md)
 - [Basque Pipérade mit frischen Eiern](./basque-piperade.md)
