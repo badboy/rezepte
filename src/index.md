@@ -10,7 +10,7 @@ andere irgendwo aufgeschnappt (und soweit möglich dann auch mit Quellenangabe)
 und wiederum andere einfach durch ausprobieren entstanden.
 
 Gerne nehme ich auch eure Rezepte entgegen und füge diese hinzu. Einfach melden,
-bei [Twitter](https://twitter.com/badboy_) Bescheid sagen oder
+bei [Mastodon]([https://twitter.com/badboy_](https://hachyderm.io/@jer)) Bescheid sagen oder
  [ein Ticket aufmachen](https://github.com/badboy/rezepte/issues).
 
 Guten Appetit.
